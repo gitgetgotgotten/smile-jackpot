@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SlotMachine > renders the component correctly 1`] = `
+"<div data-v-e16b67b2=\\"\\">
+  <div data-v-e16b67b2=\\"\\" class=\\"slot-machine\\">
+    <slot-block-stub data-v-e16b67b2=\\"\\" icon=\\"arrow-down\\" spinning=\\"false\\"></slot-block-stub>
+    <slot-block-stub data-v-e16b67b2=\\"\\" icon=\\"arrow-down\\" spinning=\\"false\\"></slot-block-stub>
+    <slot-block-stub data-v-e16b67b2=\\"\\" icon=\\"arrow-down\\" spinning=\\"false\\"></slot-block-stub><button data-v-e16b67b2=\\"\\" class=\\"roll-button\\">Roll</button>
+  </div>
+  <cash-out-button-stub data-v-e16b67b2=\\"\\"></cash-out-button-stub>
+</div>"
+`;
